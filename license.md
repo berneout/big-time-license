@@ -1,6 +1,6 @@
-# Polyform Noncommercial License Development Draft
+# On-Ramp Public License
 
-<https://github.com/polyformproject/polyform-licenses/>
+Development Draft
 
 ## Acceptance
 
