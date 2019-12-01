@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-This license allows individuals and small companies to use and share this software for free, and guarantees that licenses for larger companies will be available on fair terms.
+These terms let individuals and small companies to use and share this software for free, while also guaranteeing that paid licenses for larger companies will be available on fair terms.
 
 ## Acceptance
 
@@ -48,6 +48,14 @@ Use by any charitable organization, educational institution, public research org
 
 Use of the software for the benefit of your company is use for a permitted purpose if your company has fewer than 100 total individuals working as employees and independent contractors, and less than 1,000,000 USD (2019) total revenue in the prior tax year.  Adjust this revenue threshold for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
+## Large Business
+
+Use of the software for the benefit of your company is use for a permitted purpose:
+
+1.  during the first 128 days after use for the benefit of your company stops qualifying as a permitted purpose under [Small Business](#small-business)
+
+2.  indefinitely, if the licensor does not offer a fair commercial license for the software within 32 days of receiving a written request
+
 ## Fair Use
 
 You may have "fair use" rights for the software under the law. These terms do not limit them.
@@ -79,3 +87,11 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 **Your licenses** are all the licenses granted to you for the software under these terms.
 
 **Use** means anything you do with the software requiring one of your licenses.
+
+A **fair commercial license** permits the recipient to do everything that these terms allows companies qualifying under [Small Business](#small-business) to do, for a reasonable fee, without additional unreasonable terms or terms that discriminate against particular licensees.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.
+
+A **reasonable fee** for a fair commercial license is not more than:
+
+1.  on an annual basis, the number of software developers who have made substantial contributions to the software in the last four years times 1.25 times the annual wage for software developers reported in the most recent Bureau of Labor Statistics Occupational Employment Statistics survey
+
+2.  on a perpetual basis, two times a reasonable fee on an annual basis
