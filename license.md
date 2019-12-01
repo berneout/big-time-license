@@ -2,6 +2,10 @@
 
 Development Draft
 
+## Purpose
+
+This license allows individuals and small companies to use and share this software for free, and guarantees that licenses for larger companies will be available on fair terms.
+
 ## Acceptance
 
 In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
