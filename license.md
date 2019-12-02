@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-These terms let individuals and small companies to use and share this software for free, while also guaranteeing that paid licenses for larger companies will be available on fair terms.
+These terms let individuals, nonprofit organizations, and fledgling companies use and share this software for free, while also guaranteeing paid licenses for others will be available on fair terms.
 
 ## Acceptance
 
@@ -46,7 +46,15 @@ Use by any charitable organization, educational institution, public research org
 
 ## Small Business
 
-Use of the software for the benefit of your company is use for a permitted purpose if your company has fewer than 100 total individuals working as employees and independent contractors, and less than 1,000,000 USD (2019) total revenue in the prior tax year.  Adjust this revenue threshold for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
+Use of the software for the benefit of your company is use for a permitted purpose if your company meets all these criteria:
+
+1.  has fewer than 100 total individuals working as employees and independent contractors
+
+2.  earned less than 1,000,000 USD (2019) total revenue in the prior tax year
+
+3.  received less than 1,000,000 USD (2019) total debt, equity, and other investment in the prior five tax years
+
+Adjust these dollar figures for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
 ## Large Business
 
