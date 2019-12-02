@@ -54,7 +54,7 @@ Use of the software for the benefit of your company is use for a permitted purpo
 
 1.  during the first 128 days after use for the benefit of your company stops qualifying as a permitted purpose under [Small Business](#small-business)
 
-2.  indefinitely, if the licensor successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request)
+2.  indefinitely, if the licensor or their legal successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request)
 
 ## How to Request
 
