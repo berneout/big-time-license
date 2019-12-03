@@ -88,10 +88,10 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 
 **Use** means anything you do with the software requiring one of your licenses.
 
-A **fair commercial license** permits the recipient to do everything that these terms allows companies qualifying under [Small Business](#small-business) to do, for a reasonable fee, without additional unreasonable terms or terms that discriminate against particular licensees.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.
+A **fair commercial license** permits the recipient to do everything that these terms allows companies qualifying under [Small Business](#small-business) to do, for a fair fee, without additional unreasonable terms or terms that discriminate against particular licensees.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.
 
-A **reasonable fee** for a fair commercial license is not more than:
+A **fair fee** is a fair market price for a fair commercial license.  If the licensor advertises a fee for generally available fair commercial licenses, and more than one unaffiliated customer has paid that price in the past year, that is a fair fee.  However, a fair fee may not be more than:
 
-1.  on an annual basis, the number of software developers who have made substantial contributions to the software in the last four years times 1.25 times the annual wage for software developers reported in the most recent Bureau of Labor Statistics Occupational Employment Statistics survey
+1.  on an annual basis, the number of software developers who have made substantial technical contributions to the software in the last four years times 0.25 times the annual wage for software developers reported in the most recent Bureau of Labor Statistics Occupational Employment Statistics survey
 
-2.  on a perpetual basis, two times a reasonable fee on an annual basis
+2.  on a perpetual basis, two times a fair fee on an annual basis
