@@ -1,6 +1,4 @@
-# Big Time Public License
-
-Development Draft
+# Big Time Public License 1.0.0-pre.1
 
 ## Purpose
 
