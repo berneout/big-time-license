@@ -2,6 +2,8 @@
 
 Development Draft
 
+<https://github.com/berneout/big-time-public-license>
+
 ## Purpose
 
 These terms let individuals, nonprofit organizations, and fledgling companies use and share this software for free, while also guaranteeing paid licenses for others will be available on fair terms.
