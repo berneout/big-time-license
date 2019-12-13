@@ -50,7 +50,7 @@ Use by any charitable organization, educational institution, public research org
 
 Use of the software for the benefit of your company is use for a permitted purpose if your company meets all these criteria:
 
-1.  has fewer than 100 total individuals working as employees and independent contractors
+1.  had fewer than 100 total individuals working as employees and independent contractors at all times during the prior tax year
 
 2.  earned less than 1,000,000 USD (2019) total revenue in the prior tax year
 
