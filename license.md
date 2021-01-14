@@ -98,6 +98,6 @@ A **fair commercial license** permits the recipient to do everything that these 
 
 A **fair fee** is a fair market price for a fair commercial license.  If the licensor advertises a fee for generally available fair commercial licenses, and more than one unaffiliated customer has paid that price in the past year, that is a fair fee.  However, a fair fee may not be more than:
 
-1.  on an annual basis, the number of software developers who have made substantial technical contributions to the software in the last four years times 0.25 times the annual wage for software developers reported in the most recent Bureau of Labor Statistics Occupational Employment Statistics survey
+1.  on an annual basis, the number of software developers who have made substantial technical contributions to the software in the last four years times one quarter of the annual wage for software developers reported in the most recent Bureau of Labor Statistics Occupational Employment Statistics survey
 
-2.  on a perpetual basis, two times a fair fee on an annual basis
+2.  on a perpetual basis, four times a fair fee on an annual basis
