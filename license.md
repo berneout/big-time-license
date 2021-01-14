@@ -42,11 +42,11 @@ Use by any charitable organization, educational institution, public research org
 
 Use of the software for the benefit of your company is use for a permitted purpose if your company meets all these criteria:
 
-1.  had fewer than 100 total individuals working as employees and independent contractors at all times during the prior tax year
+1.  had fewer than 100 total individuals working as employees and independent contractors at all times during the last tax year
 
-2.  earned less than 1,000,000 USD (2019) total revenue in the prior tax year
+2.  earned less than 1,000,000 USD (2019) total revenue in the last tax year
 
-3.  received less than 1,000,000 USD (2019) total debt, equity, and other investment in the prior five tax years
+3.  received less than 1,000,000 USD (2019) total debt, equity, and other investment in the last five tax years
 
 Adjust these dollar figures for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
