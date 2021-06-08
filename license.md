@@ -50,7 +50,7 @@ Use of the software for the benefit of your company is use for a permitted purpo
 
 Adjust these dollar figures for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
-## Large Business
+## Big Business
 
 Use of the software for the benefit of your company is use for a permitted purpose:
 
@@ -60,7 +60,7 @@ Use of the software for the benefit of your company is use for a permitted purpo
 
 ## How to Request
 
-If this software includes an address for the licensor or an agent of the licensor in a standard place, such as in documentation, software package metadata, or an "about" page or screen, try to request a fair commercial license at that address.  If this package includes both online and offline addresses, try online before offline.  If you can't deliver a request that way, or this software doesn't include any addressees, spend one hour online researching an address, recording all your searches and inquiries as you go, and try any addresses that you find.  If you can't find any addresses, or if those addresses also fail, that counts as failure to offer a fair commercial license by the licensor under [Large Business](#large-business).
+If this software includes an address for the licensor or an agent of the licensor in a standard place, such as in documentation, software package metadata, or an "about" page or screen, try to request a fair commercial license at that address.  If this package includes both online and offline addresses, try online before offline.  If you can't deliver a request that way, or this software doesn't include any addressees, spend one hour online researching an address, recording all your searches and inquiries as you go, and try any addresses that you find.  If you can't find any addresses, or if those addresses also fail, that counts as failure to offer a fair commercial license by the licensor under [Big Business](#big-business).
 
 ## Fair Use
 
