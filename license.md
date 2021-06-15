@@ -12,20 +12,6 @@ These terms let you use and share this software for noncommercial purposes and i
 
 In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
 
-## Copyright License
-
-The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any purpose allowed by these terms.
-
-## Notices
-
-You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
-
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
-
-## Patent License
-
-The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
-
 ## Noncommercial Purposes
 
 Use for any noncommercial purpose is allowed.
@@ -61,6 +47,20 @@ Use of the software for the benefit of your company is allowed:
 ## How to Request
 
 If this software includes an address for the licensor or an agent of the licensor in a standard place, such as in documentation, software package metadata, or an "about" page or screen, try to request a fair commercial license at that address.  If this package includes both online and offline addresses, try online before offline.  If you can't deliver a request that way, or this software doesn't include any addressees, spend one hour online researching an address, recording all your searches and inquiries as you go, and try any addresses that you find.  If you can't find any addresses, or if those addresses also fail, that counts as failure to offer a fair commercial license by the licensor under [Big Business](#big-business).
+
+## Copyright License
+
+The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any purpose allowed by these terms.
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
+
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
 ## Fair Use
 
