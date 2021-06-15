@@ -96,4 +96,4 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 
 A **fair commercial license** allows the recipient to do everything that a company qualifying under [Small Business](#small-business) can do under these terms, for a fair price, without additional unreasonable terms or terms that discriminate against particular licensees.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.
 
-A **fair price** is a fair market price for a fair commercial license.  If the licensor advertises a price for generally available fair commercial licenses, and more than one customer not affiliated with the licensor has paid that price in the past year, that is a fair price.
+A **fair price** is a fair market price for a fair commercial license.  If the licensor advertises a price or price structure for generally available fair commercial licenses, and more than one customer not affiliated with the licensor has paid that price in the past year, that is a fair price.
