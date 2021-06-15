@@ -14,7 +14,7 @@ In order to get any license under these terms, you must agree to them as both st
 
 ## Copyright License
 
-The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.
+The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any purpose allowed by these terms.
 
 ## Notices
 
@@ -28,19 +28,19 @@ The licensor grants you a patent license for the software that covers patent cla
 
 ## Noncommercial Purposes
 
-Any noncommercial purpose is a permitted purpose.
+Use for any noncommercial purpose is allowed.
 
 ## Personal Uses
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is allowed.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is allowed, regardless of the source of funding or obligations resulting from the funding.
 
 ## Small Business
 
-Use of the software for the benefit of your company is use for a permitted purpose if your company meets all these criteria:
+Use of the software for the benefit of your company is allowed if your company meets all these criteria:
 
 1.  had fewer than 100 total individuals working as employees and independent contractors at all times during the last tax year
 
@@ -52,9 +52,9 @@ Adjust these dollar figures for inflation according to the United States Bureau 
 
 ## Large Business
 
-Use of the software for the benefit of your company is use for a permitted purpose:
+Use of the software for the benefit of your company is allowed:
 
-1.  for 128 days after that use stops qualifying as a permitted purpose under [Small Business](#small-business)
+1.  for 128 days after your company stops qualifying under [Small Business](#small-business)
 
 2.  indefinitely, if the licensor or their legal successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request)
 
