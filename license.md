@@ -32,11 +32,11 @@ Use for any noncommercial purpose is allowed.
 
 ## Personal Uses
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is allowed.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, count as use for noncommercial purposes.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is allowed, regardless of the source of funding or obligations resulting from the funding.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution counts as use for noncommercial purposes, regardless of the source of funding or obligations resulting from the funding.
 
 ## Small Business
 
