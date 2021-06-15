@@ -14,7 +14,7 @@ In order to get any license under these terms, you must agree to them as both st
 
 ## Noncommercial Purposes
 
-Use for any noncommercial purpose is allowed.
+You may use the software for any noncommercial purpose.
 
 ## Personal Uses
 
@@ -26,7 +26,7 @@ Use by any charitable organization, educational institution, public research org
 
 ## Small Business
 
-Use of the software for the benefit of your company is allowed if your company meets all these criteria:
+You may use the software for the benefit of your company if it meets all these criteria:
 
 1.  had fewer than 100 total individuals working as employees and independent contractors at all times during the last tax year
 
@@ -38,7 +38,7 @@ Adjust these dollar figures for inflation according to the United States Bureau 
 
 ## Big Business
 
-Use of the software for the benefit of your company is allowed:
+You may use the software for the benefit of your company:
 
 1.  for 128 days after your company stops qualifying under [Small Business](#small-business)
 
