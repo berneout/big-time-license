@@ -46,7 +46,7 @@ Use of the software for the benefit of your company is use for a permitted purpo
 
 2.  earned less than 1,000,000 USD (2019) total revenue in the last tax year
 
-3.  received less than 1,000,000 USD (2019) total debt, equity, and other investment in the last five tax years
+3.  received less than 1,000,000 USD (2019) total debt, equity, and other investment in the last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
 
 Adjust these dollar figures for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, U.S. city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
