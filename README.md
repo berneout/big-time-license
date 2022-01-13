@@ -15,3 +15,11 @@ You can download the most recent release from [GitHub](https://github.com/berneo
 You can read this license.
 
 Big Time is a [flipped form](https://flippedform.com) in everyday English.  If something doesn't make sense, that's the terms' fault, not yours.  Please [open an issue on GitHub](https://github.com/berneout/big-time-public-license/issues/new) so we can fix it.
+
+## Meta License
+
+Each contributor grants everyone permission to do everything with The Big Time Public License that would otherwise infringe their copyright in it, under these rules:
+
+***As far as the law allows, The Big Time Public License comes as is, without any warranty at all.  No one involved in writing, reviewing, or improving The Big Time Public License will be liable to you for any damages related to this license grant or use of The Big Time Public License, for any kind of legal claim.***
+
+If you make changes to The Big Time Public License, remove all mention of "Big Time" from your changed version.
