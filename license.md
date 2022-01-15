@@ -28,7 +28,7 @@ Use by any charitable organization, educational institution, public research org
 
 You may use the software for the benefit of your company if it meets all these criteria:
 
-1.  had fewer than 100 total individuals working as employees and independent contractors at all times during the last tax year
+1.  had fewer than 20 total individuals working as employees and independent contractors at all times during the last tax year
 
 2.  earned less than 1,000,000 USD (2019) total revenue in the last tax year
 
