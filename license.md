@@ -94,6 +94,8 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 
 **Use** means anything you do with the software requiring one of your licenses.
 
-A **fair commercial license** allows use of the software in business by a company that does not qualify under [Small Business](#small-business), for a fair price, on reasonable, nondiscriminatory terms.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.  If the licensor advertises terms for generally available commercial licenses, and a customer not affiliated with the licensor has agreed to those terms int he past year, a license on those terms is a fair commercial license.
+A **fair commercial license** allows use of the software in business by a company that does not qualify under [Small Business](#small-business), under fair commercial terms and at a fair price.
 
-A **fair price** is a reasonable estimate of a fair market price.  If the licensor proposes a price according to a pricing structure that it advertises for generally available commercial licenses, that is a fair price.  If the licensor does not advertise a pricing structure that specifies a price, but proposes a price that a customer not affiliated with the licensor has paid in the past year, that is a fair price.
+**Fair commercial terms** are fair, reasonable, and nondiscriminatory.  They may license the software perpetually or for a term.  They may or may not cover new versions of the software.  If the licensor advertises terms for generally available commercial licenses, and a customer not affiliated with the licensor has agreed to those terms in the past year, those are fair commercial terms.
+
+A **fair price** is a reasonable estimate of a fair market price.  If the licensor proposes a price according to a pricing structure that it advertises for generally available commercial licenses, and a customer not affiliated with the licensor has paid that price in the past year, that is a fair price.
