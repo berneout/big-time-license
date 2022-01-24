@@ -42,11 +42,15 @@ You may use the software for the benefit of your company:
 
 1.  for 128 days after your company stops qualifying under [Small Business](#small-business)
 
-2.  indefinitely, if the licensor or their legal successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request) and negotiate in good faith to conclude a deal
+2.  indefinitely, if the licensor or their legal successor does not offer fair, reasonable, and nondiscriminatory terms for a commercial license for the software within 32 days of [written request](#how-to-request) and negotiate in good faith to conclude a deal
 
 ## How to Request
 
 If this software includes an address for the licensor or an agent of the licensor in a standard place, such as in documentation, software package metadata, or an "about" page or screen, try to request a fair commercial license at that address.  If this package includes both online and offline addresses, try online before offline.  If you can't deliver a request that way, or this software doesn't include any addressees, spend one hour online researching an address, recording all your searches and inquiries as you go, and try any addresses that you find.  If you can't find any addresses, or if those addresses also fail, that counts as failure to offer a fair commercial license by the licensor under [Big Business](#big-business).
+
+## Fair, Reasonable, and Nondiscriminatory Terms
+
+Fair, reasonable, and nondiscriminatory terms may license the software perpetually or for a term, and may or may not cover new versions of the software.  If the licensor advertises license terms and a pricing structure for generally available commercial licenses, the licensor proposes license terms and a price as advertised, and a customer not affiliated with the licensor has bought a commercial commercial license for the software on substantially equivalent terms in the past year, the proposal is fair, reasonable, and nondiscriminatory.
 
 ## Copyright License
 
@@ -93,9 +97,3 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 **Your licenses** are all the licenses granted to you for the software under these terms.
 
 **Use** means anything you do with the software requiring one of your licenses.
-
-A **fair commercial license** allows use of the software in business by a company that does not qualify under [Small Business](#small-business), under fair commercial terms and at a fair price.
-
-**Fair commercial terms** are fair, reasonable, and nondiscriminatory.  They may license the software perpetually or for a term.  They may or may not cover new versions of the software.  If the licensor advertises terms for generally available commercial licenses, and a customer not affiliated with the licensor has agreed to those terms in the past year, those are fair commercial terms.
-
-A **fair price** is a reasonable estimate of a fair market price.  If the licensor advertises a pricing structure for generally available commercial licenses, the licensor proposes a price according to that structure, and a customer not affiliated with the licensor has paid such a price in the past year, that is a fair price.
