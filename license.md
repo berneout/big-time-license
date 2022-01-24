@@ -42,7 +42,7 @@ You may use the software for the benefit of your company:
 
 1.  for 128 days after your company stops qualifying under [Small Business](#small-business)
 
-2.  indefinitely, if the licensor or their legal successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request)
+2.  indefinitely, if the licensor or their legal successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request) and negotiate in good faith to conclude a deal
 
 ## How to Request
 
@@ -94,6 +94,8 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 
 **Use** means anything you do with the software requiring one of your licenses.
 
-A **fair commercial license** allows use of the software in business by a company that does not qualify under [Small Business](#small-business), for a fair price, on reasonable terms, without discriminating against any particular licensee.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.
+A **fair commercial license** allows use of the software in business by a company that does not qualify under [Small Business](#small-business), under fair commercial terms and at a fair price.
 
-A **fair price** is a fair market price for a fair commercial license.  If the licensor advertises a price or price structure for generally available fair commercial licenses, and more than one customer not affiliated with the licensor has paid that price in the past year, that is fair.
+**Fair commercial terms** are fair, reasonable, and nondiscriminatory.  They may license the software perpetually or for a term.  They may or may not cover new versions of the software.  If the licensor advertises terms for generally available commercial licenses, and a customer not affiliated with the licensor has agreed to those terms in the past year, those are fair commercial terms.
+
+A **fair price** is a reasonable estimate of a fair market price.  If the licensor advertises a pricing structure for generally available commercial licenses, the licensor proposes a price according to that structure, and a customer not affiliated with the licensor has paid such a price in the past year, that is a fair price.
