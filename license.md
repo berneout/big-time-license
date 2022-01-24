@@ -98,4 +98,4 @@ A **fair commercial license** allows use of the software in business by a compan
 
 **Fair commercial terms** are fair, reasonable, and nondiscriminatory.  They may license the software perpetually or for a term.  They may or may not cover new versions of the software.  If the licensor advertises terms for generally available commercial licenses, and a customer not affiliated with the licensor has agreed to those terms in the past year, those are fair commercial terms.
 
-A **fair price** is a reasonable estimate of a fair market price.  If the licensor proposes a price according to a pricing structure that it advertises for generally available commercial licenses, and a customer not affiliated with the licensor has paid that price in the past year, that is a fair price.
+A **fair price** is a reasonable estimate of a fair market price.  If the licensor advertises a pricing structure for generally available commercial licenses, the licensor proposes a price according to that structure, and a customer not affiliated with the licensor has paid such a price in the past year, that is a fair price.
