@@ -6,7 +6,7 @@ Development Draft
 
 ## Purpose
 
-These terms let you use and share this software for noncommercial purposes and in small business for free, while also guaranteeing that paid licenses for big businesses will be available on fair terms.
+These terms let you use and share this software for noncommercial purposes and in small business for free, while also guaranteeing that paid licenses for big businesses will be available on fair, reasonable, and nondiscriminatory terms.
 
 ## Acceptance
 
