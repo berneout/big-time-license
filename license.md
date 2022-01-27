@@ -30,11 +30,11 @@ You may use the software for the benefit of your company if it meets all these c
 
 1.  had fewer than 20 total individuals working as employees and independent contractors at all times during the last tax year
 
-2.  earned less than 1,000,000 USD (2019) total revenue in the last tax year
+2.  earned less than $1,000,000 total revenue in the last tax year
 
-3.  received less than 1,000,000 USD (2019) total debt, equity, and other investment in the last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
+3.  received less than $1,000,000 total debt, equity, and other investment in the last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
 
-Adjust these dollar figures for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
+The dollar figures above are United States Dollars as of 2019.  Adjust them inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
 ## Big Business
 
