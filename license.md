@@ -34,7 +34,7 @@ You may use the software for the benefit of your company if it meets all these c
 
 3.  received less than $1,000,000 total debt, equity, and other investment in the last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
 
-The dollar figures above are United States dollars as of 2019.  Adjust them inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
+All dollar figures are United States dollars as of 2019.  Adjust for them inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
 ## Big Business
 
