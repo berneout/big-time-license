@@ -52,6 +52,10 @@ If this software includes an address for the licensor or an agent of the licenso
 
 Fair, reasonable, and nondiscriminatory terms may license the software perpetually or for a term, and may or may not cover new versions of the software.  If the licensor advertises license terms and a pricing structure for generally available commercial licenses, the licensor proposes license terms and a price as advertised, and a customer not affiliated with the licensor has bought a commercial commercial license for the software on substantially equivalent terms in the past year, the proposal is fair, reasonable, and nondiscriminatory.
 
+## End of Life
+
+If the licensor stops offering commercial licenses for the software for 90 calendar days in a row, or publishes an announcement that they will no longer offer commercial licenses for the software, you can use the software for free for any purpose, under your choice of these terms, those of the Blue Oak Model License 1.0.0, or those of any later version of that license published by Blue Oak Council or its appointed successor.
+
 ## Copyright License
 
 The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any purpose allowed by these terms.
