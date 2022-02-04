@@ -60,10 +60,6 @@ Fair, reasonable, and nondiscriminatory terms may not exploit the fact that you 
 
 If the licensor stopped offering commercial licenses for the software for 64 days in a row, or published an announcement that they will no longer offer commercial licenses for the software, you can use the software for free for any purpose, under your choice of these terms, the Blue Oak Model License 1.0.0, or any later version of the Blue Oak Model License published by Blue Oak Council or its appointed successor.
 
-## End of Life
-
-If the licensor stopped offering commercial licenses for the software for 64 days in a row, or published an announcement that they will no longer offer commercial licenses for the software, you can use the software for free for any purpose, under your choice of these terms, the Blue Oak Model License 1.0.0, or any later version of the Blue Oak Model License published by Blue Oak Council or its appointed successor.
-
 ## Copyright License
 
 The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any purpose allowed by these terms.
