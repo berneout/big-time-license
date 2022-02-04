@@ -32,11 +32,11 @@ You may use the software for brief trial periods to verify that the software wor
 
 You may use the software for the benefit of your company if it meets all these criteria:
 
-1.  had fewer than 20 total individuals working as employees and independent contractors at all times during the last tax year
+1.  had fewer than 20 total individuals working as employees and independent contractors at all times during its last tax year
 
-2.  earned less than $1,000,000 total revenue in the last tax year
+2.  earned less than $1,000,000 total revenue in its last tax year
 
-3.  received less than $1,000,000 total debt, equity, and other investment in the last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
+3.  received less than $1,000,000 total debt, equity, and other investment in its last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
 
 All dollar figures are United States dollars as of 2019.  Adjust for them inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
