@@ -18,11 +18,11 @@ You may use the software for any noncommercial purpose.
 
 ## Personal Uses
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, count as use for noncommercial purposes.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, count as use for a noncommercial purpose.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution to advance its institutional mission counts as use for noncommercial purposes.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution to advance its institutional mission counts as use for a noncommercial purpose.
 
 ## Commercial Trials
 
