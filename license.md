@@ -44,7 +44,7 @@ All dollar figures are United States dollars as of 2019.  Adjust for them inflat
 
 You may use the software for the benefit of your company:
 
-1.  for 128 days after your company stops qualifying under [Small Business](#small-business)
+1.  for 128 days after it stops qualifying under [Small Business](#small-business)
 
 2.  indefinitely, if the licensor or their legal successor does not offer fair, reasonable, and nondiscriminatory terms for a commercial license for the software within 32 days of [written request](#how-to-request) and negotiate in good faith to conclude a deal
 
