@@ -26,7 +26,7 @@ Use by any charitable organization, educational institution, public research org
 
 ## Commercial Trials
 
-You may use the software for brief trial periods to verify that the software works as described, such as by running on test data or integrating with a test system.  You may not try the software on production systems or distribute the software to customers.
+You may use the software for brief trial periods to verify that the software works as described, such as by running on test data or integrating with a test system.
 
 ## Small Business
 
