@@ -66,9 +66,7 @@ The licensor grants you a copyright license to do everything with the software t
 
 ## Notices
 
-You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
-
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above.
 
 ## Patent License
 
