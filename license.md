@@ -24,6 +24,10 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution to advance its institutional mission counts as use for noncommercial purposes.
 
+## Commercial Trials
+
+You may use the software for brief trial periods to verify that the software works as described, such as by running on test data or integrating with a test system.  You may not try the software on production systems or distribute the software to customers.
+
 ## Small Business
 
 You may use the software for the benefit of your company if it meets all these criteria:
