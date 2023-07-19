@@ -1,8 +1,8 @@
 # Big Time Public License
 
-Version 2.0.1
+Version 2.0.2
 
-<https://bigtimelicense.com/versions/2.0.1>
+<https://bigtimelicense.com/versions/2.0.2>
 
 ## Purpose
 
