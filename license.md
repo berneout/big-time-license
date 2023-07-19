@@ -50,7 +50,7 @@ If this software includes an address for the licensor or an agent of the licenso
 
 ## Fair, Reasonable, and Nondiscriminatory Terms
 
-Fair, reasonable, and nondiscriminatory terms may license the software perpetually or for a term, and may or may not cover new versions of the software.  If the licensor advertises license terms and a pricing structure for generally available commercial licenses, the licensor proposes license terms and a price as advertised, and a customer not affiliated with the licensor has bought a commercial commercial license for the software on substantially equivalent terms in the past year, the proposal is fair, reasonable, and nondiscriminatory.
+Fair, reasonable, and nondiscriminatory terms may license the software perpetually or for a term, and may or may not cover new versions of the software.  If the licensor advertises license terms and a pricing structure for generally available commercial licenses, the licensor proposes license terms and a price as advertised, and a customer not affiliated with the licensor has bought a commercial license for the software on substantially equivalent terms in the past year, the proposal is fair, reasonable, and nondiscriminatory.
 
 ## Copyright License
 
