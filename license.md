@@ -30,7 +30,7 @@ You may use the software for brief trial periods to verify that the software wor
 
 ## Small Business
 
-You may use the software for the benefit of your company if it meets all these criteria:
+You may use the software for the benefit of your company so long as it meets all these criteria:
 
 1.  had fewer than 20 total individuals working as employees and independent contractors at all times during its last tax year
 
