@@ -1,8 +1,8 @@
-# Big Time Public License
+# Big Time Software License
 
 Development Draft
 
-<https://github.com/berneout/big-time-public-license>
+<https://github.com/berneout/big-time-software-license>
 
 ## Purpose
 
