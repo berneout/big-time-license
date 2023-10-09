@@ -40,11 +40,13 @@ You may use the software for the benefit of your company so long as it meets all
 
 All dollar figures are United States dollars as of January 2019.  Adjust for them inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
 
+If your company stops meeting the criteria, you may continue using the software for the benefit of your company for an additional 128 days.
+
 ## Big Business
 
-You may use the software for the benefit of your company:
+If your company does not qualify under [Small Business](#small-business), you may use the software for the benefit of your company:
 
-1.  for 128 days after it stops qualifying under [Small Business](#small-business)
+1.  for 30 days, as a trial to evaluate whether your company should buy a commercial license, one trial per company
 
 2.  indefinitely, if the licensor or their legal successor does not offer fair, reasonable, and nondiscriminatory terms for a commercial license for the software within 32 days of [written request](#how-to-request) and negotiate in good faith to conclude a deal
 
